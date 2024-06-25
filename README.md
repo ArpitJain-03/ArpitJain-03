@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitjain-03&label=Profile%20views&color=0e75b6&style=flat" alt="arpitjain-03" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitjain-03" alt="arpitjain-03" /></a> </p>
-
 - 🌱 I’m currently learning **Artificial Intelligence , Machine Learning and Data Science**
 
 - 📫 How to reach me **arpitjain0703@gmail.com**
